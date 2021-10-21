@@ -4,3 +4,5 @@ Cauliflower
 Lettuce
 Green beans
 Peas
+Radishes
+Carrots
