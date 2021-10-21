@@ -1,3 +1,6 @@
 Kale
 Broccoli
 Cauliflower
+Lettuce
+Green beans
+Peas
